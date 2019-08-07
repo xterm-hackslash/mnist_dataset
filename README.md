@@ -1,4 +1,7 @@
 # mnist_dataset
-digit recognition using knn algorithm
-This is my first project on machine learning in which i have used k nearest neighbour algorithm to recognise the resemblance of test data to its neighbours.
-This algorithm has a accuracy of about 80%-90% depending on the number of data set.
+digit recognition using knn algorithm 
+implemented same using logistic regression
+knn algorithm worked well on small data sets with accuracy of 85-90% however the execution time was very high.
+logistic regression worked well on large datasets with higher accuracy on less execution time.
+
+
